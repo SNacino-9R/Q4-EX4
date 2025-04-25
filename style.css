@@ -1,0 +1,20 @@
+body {
+	background-color: floralwhite;
+	text-align: center;
+}
+h1 {
+	color: #f1b6b0;
+}
+h2 {
+	color: #f1b6b0;
+}
+
+label {
+	color: #e7b991;
+}
+.container {
+background-color: #a19a87;
+color: white;
+padding: 20px;
+border-radius: 10px;
+}
